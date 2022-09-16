@@ -6,6 +6,6 @@ When completed, the application will accept user input of a city and the applica
 
 Deployed webpage: https://ag6793.github.io/Weather-Dashboard/
 
-Github application:
+Github application: https://github.com/Ag6793/Weather-Dashboard.git
 
 Technologies used: HTML, CSS, Javascript
