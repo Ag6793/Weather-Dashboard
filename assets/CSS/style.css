@@ -3,11 +3,15 @@
 }
 
 h1 {
-    background-color: rgb(23, 23, 99);
+    background-color: rgb(18, 18, 58);
     color: white;
     text-align:center;
     padding: 25px;  
     
+}
+
+#searchbar{
+    margin:25px 25px 15px 50px;
 }
 
 body {
@@ -15,7 +19,7 @@ body {
 }
 
 button {
-    background-color: blue;
+    background-color: rgb(18, 18, 58);
     color: white;
     border-radius: 4px;
     padding: 7px;
