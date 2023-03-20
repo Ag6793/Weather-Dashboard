@@ -9,3 +9,5 @@ Deployed webpage: https://ag6793.github.io/Weather-Dashboard/
 Github application: https://github.com/Ag6793/Weather-Dashboard.git
 
 Technologies used: HTML, CSS, Javascript, Bootstrap
+
+Utilizes Server side API: Weather API
