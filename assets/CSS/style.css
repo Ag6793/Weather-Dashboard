@@ -1,28 +1,26 @@
-/* * {
-    margin: 0;
-}
-
-h1 {
-    background-color: rgb(18, 18, 58);
+header {
+    background-color: rgb(6, 6, 51);
     color: white;
     text-align:center;
-    padding: 25px;  
-    
+    padding-bottom: 1rem;
+
 }
 
 #search-form{
-    margin:25px 25px 15px 50px;
+    background-color: gray;
+    padding: 15px;
+    margin:15px;
+    
 }
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
+#todayForcast{
+    background-color: lightblue;
+    padding: 25px;
+    margin: 10px;
 }
 
-button {
-    background-color: rgb(18, 18, 58);
-    color: white;
-    border-radius: 4px;
-    padding: 7px;
-    border: none;
-} */
-
+#fiveDayForcast{
+    background-color: bisque;
+    padding: 25px;
+    margin: 10px;
+}
