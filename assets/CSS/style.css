@@ -6,10 +6,11 @@ header {
 
 }
 
-#search-form{
+#search{
     background-color: rgb(197, 196, 196);
     padding: 15px;
     margin:15px;
+    height:100%;
     
 }
 
@@ -24,3 +25,4 @@ header {
     padding: 25px;
     margin: 10px;
 }
+
