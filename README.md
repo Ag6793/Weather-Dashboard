@@ -28,6 +28,10 @@ Clone the repository and open the HTML document in the browser to use the applic
 ## Usage
 This application will be useful for anyone curious or has the need to check the weather.
 
+## Future Development
+* Add script to the Javascript to make the app functional
+* Make some sytling changes to clean up the look of the application
+
 ## Credits
 Alexandria Guerrero, https://github.com/Ag6793
 
