@@ -17,7 +17,7 @@ Deployed webpage: https://ag6793.github.io/Weather-Dashboard/
 * CSS 
 * Javascript
 * Bootstrap
-* Utilizes server side API: Weather API
+* Utilizes server side API: Open Weather API
 
 ## Installation
 Clone the repository and open the HTML document in the browser to use the application.
@@ -26,8 +26,7 @@ Clone the repository and open the HTML document in the browser to use the applic
 This application will be useful for anyone curious or has the need to check the weather.
 
 ## Future Development
-* Add script to the Javascript to make the app functional
-* Make some sytling changes to clean up the look of the application
+* Fix app bug, the search bar isn't working. The user can't search a city, but the app can search via the console.
 
 ## Credits
 Alexandria Guerrero, https://github.com/Ag6793

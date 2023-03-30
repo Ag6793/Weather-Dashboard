@@ -5,7 +5,7 @@ let weather = {
       "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&units=imperial&appid=" + this.apiKey
     )
     .then((response) => response.json())
-    .then((data) => this.displayWeather(data));
+    .then((data) => this.displayWeather(data))
   },
   displayWeather: function(data) {
     const { name } = data;
@@ -13,6 +13,7 @@ let weather = {
     const { temp, humidity } = data.main;
     const { speed } = data.wind;
     console.log( name, icon, description, temp, humidity, speed);
+    console.log("display weather is working");
     document.querySelector("#city").innerText = name;
     document.querySelector("#icon").src = "https://openweathermap.org/img/wn/" + icon + ".png";
     document.querySelector("#description").innerText = description;
@@ -25,15 +26,16 @@ let weather = {
   }
 };
 
-document.querySelector("#fetch-button").addEventListener("click", function(){
+document.querySelector("button").addEventListener("click", function(){
   weather.search();
 });
 
-document.querySelector("#search-input").addEventListener("keyup", function(event){
+document.querySelector(".search-bar").addEventListener("keyup", function(event){
   if(event.key == "Enter"){
+    console.log("keyup is working");
     weather.search();
   }
-})
+});
 
 
   
