@@ -10,7 +10,7 @@ When completed, the application will accept user input of a city and the applica
 
 Deployed webpage: https://ag6793.github.io/Weather-Dashboard/
 
-![Screenshot_9_15](./assets/images/screenshot.jpg)
+![Screenshot_9_15](./assets/images/Screenshot-3-30.jpg)
 
 ## Technologies
 * HTML 
